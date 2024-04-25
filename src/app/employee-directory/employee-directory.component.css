@@ -1,0 +1,12 @@
+.form-inline{
+    margin-left: 60px;
+    display: flex;
+    
+}
+.absolute{
+    position: relative;
+    
+}
+#relative {
+    position: absolute;
+    }
